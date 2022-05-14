@@ -1,4 +1,4 @@
-from .standard import *
+from .standard_adain import *
 
 
 def get_model(config):
